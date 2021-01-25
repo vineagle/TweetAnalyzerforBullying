@@ -14,3 +14,5 @@ Here I have Used OpenSource Data to train the model.
 Prediction File will help to Classify the bullying tweets from the normal tweets.
 
 
+Precision Achieved is : 0.93
+Recall Achieved is : 0.74
